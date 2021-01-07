@@ -1,0 +1,33 @@
+.info {
+    font-family: 'ButlerRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(218, 227, 231);
+    font-size: 30px;
+  }
+  
+  .carousel-item img{
+    width: auto;
+    height: 350px;
+    max-height: 400px;
+    margin: auto; 
+    display: block;
+    }
+body{
+  background-color: rgb(240, 190, 200);
+}
+.foot{
+  width: auto;
+  height: 40px;
+  
+}
+.one{
+  font-family: 'GetVoIPGrotesqueRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+.info {
+  font-family: 'ButlerRegular';
+  font-weight: normal;
+  font-style: normal;
+}
